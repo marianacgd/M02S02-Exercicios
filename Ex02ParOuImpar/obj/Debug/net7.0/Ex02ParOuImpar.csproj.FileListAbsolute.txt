@@ -1,0 +1,15 @@
+C:\repositorios\M02S02-Exercicios\Ex02ParOuImpar\bin\Debug\net7.0\Ex02ParOuImpar.exe
+C:\repositorios\M02S02-Exercicios\Ex02ParOuImpar\bin\Debug\net7.0\Ex02ParOuImpar.deps.json
+C:\repositorios\M02S02-Exercicios\Ex02ParOuImpar\bin\Debug\net7.0\Ex02ParOuImpar.runtimeconfig.json
+C:\repositorios\M02S02-Exercicios\Ex02ParOuImpar\bin\Debug\net7.0\Ex02ParOuImpar.dll
+C:\repositorios\M02S02-Exercicios\Ex02ParOuImpar\bin\Debug\net7.0\Ex02ParOuImpar.pdb
+C:\repositorios\M02S02-Exercicios\Ex02ParOuImpar\obj\Debug\net7.0\Ex02ParOuImpar.csproj.AssemblyReference.cache
+C:\repositorios\M02S02-Exercicios\Ex02ParOuImpar\obj\Debug\net7.0\Ex02ParOuImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorios\M02S02-Exercicios\Ex02ParOuImpar\obj\Debug\net7.0\Ex02ParOuImpar.AssemblyInfoInputs.cache
+C:\repositorios\M02S02-Exercicios\Ex02ParOuImpar\obj\Debug\net7.0\Ex02ParOuImpar.AssemblyInfo.cs
+C:\repositorios\M02S02-Exercicios\Ex02ParOuImpar\obj\Debug\net7.0\Ex02ParOuImpar.csproj.CoreCompileInputs.cache
+C:\repositorios\M02S02-Exercicios\Ex02ParOuImpar\obj\Debug\net7.0\Ex02ParOuImpar.dll
+C:\repositorios\M02S02-Exercicios\Ex02ParOuImpar\obj\Debug\net7.0\refint\Ex02ParOuImpar.dll
+C:\repositorios\M02S02-Exercicios\Ex02ParOuImpar\obj\Debug\net7.0\Ex02ParOuImpar.pdb
+C:\repositorios\M02S02-Exercicios\Ex02ParOuImpar\obj\Debug\net7.0\Ex02ParOuImpar.genruntimeconfig.cache
+C:\repositorios\M02S02-Exercicios\Ex02ParOuImpar\obj\Debug\net7.0\ref\Ex02ParOuImpar.dll
