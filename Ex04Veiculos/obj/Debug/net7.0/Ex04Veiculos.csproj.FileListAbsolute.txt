@@ -1,0 +1,15 @@
+C:\repositorios\M02S02-Exercicios\Ex04Veiculos\bin\Debug\net7.0\Ex04Veiculos.exe
+C:\repositorios\M02S02-Exercicios\Ex04Veiculos\bin\Debug\net7.0\Ex04Veiculos.deps.json
+C:\repositorios\M02S02-Exercicios\Ex04Veiculos\bin\Debug\net7.0\Ex04Veiculos.runtimeconfig.json
+C:\repositorios\M02S02-Exercicios\Ex04Veiculos\bin\Debug\net7.0\Ex04Veiculos.dll
+C:\repositorios\M02S02-Exercicios\Ex04Veiculos\bin\Debug\net7.0\Ex04Veiculos.pdb
+C:\repositorios\M02S02-Exercicios\Ex04Veiculos\obj\Debug\net7.0\Ex04Veiculos.csproj.AssemblyReference.cache
+C:\repositorios\M02S02-Exercicios\Ex04Veiculos\obj\Debug\net7.0\Ex04Veiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorios\M02S02-Exercicios\Ex04Veiculos\obj\Debug\net7.0\Ex04Veiculos.AssemblyInfoInputs.cache
+C:\repositorios\M02S02-Exercicios\Ex04Veiculos\obj\Debug\net7.0\Ex04Veiculos.AssemblyInfo.cs
+C:\repositorios\M02S02-Exercicios\Ex04Veiculos\obj\Debug\net7.0\Ex04Veiculos.csproj.CoreCompileInputs.cache
+C:\repositorios\M02S02-Exercicios\Ex04Veiculos\obj\Debug\net7.0\Ex04Veiculos.dll
+C:\repositorios\M02S02-Exercicios\Ex04Veiculos\obj\Debug\net7.0\refint\Ex04Veiculos.dll
+C:\repositorios\M02S02-Exercicios\Ex04Veiculos\obj\Debug\net7.0\Ex04Veiculos.pdb
+C:\repositorios\M02S02-Exercicios\Ex04Veiculos\obj\Debug\net7.0\Ex04Veiculos.genruntimeconfig.cache
+C:\repositorios\M02S02-Exercicios\Ex04Veiculos\obj\Debug\net7.0\ref\Ex04Veiculos.dll
