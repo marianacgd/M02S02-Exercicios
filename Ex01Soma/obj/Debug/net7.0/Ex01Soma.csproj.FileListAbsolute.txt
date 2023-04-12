@@ -1,0 +1,15 @@
+C:\repositorios\M02S02-Exercicios\Ex01Soma\obj\Debug\net7.0\Ex01Soma.csproj.AssemblyReference.cache
+C:\repositorios\M02S02-Exercicios\Ex01Soma\obj\Debug\net7.0\Ex01Soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorios\M02S02-Exercicios\Ex01Soma\obj\Debug\net7.0\Ex01Soma.AssemblyInfoInputs.cache
+C:\repositorios\M02S02-Exercicios\Ex01Soma\obj\Debug\net7.0\Ex01Soma.AssemblyInfo.cs
+C:\repositorios\M02S02-Exercicios\Ex01Soma\obj\Debug\net7.0\Ex01Soma.csproj.CoreCompileInputs.cache
+C:\repositorios\M02S02-Exercicios\Ex01Soma\bin\Debug\net7.0\Ex01Soma.exe
+C:\repositorios\M02S02-Exercicios\Ex01Soma\bin\Debug\net7.0\Ex01Soma.deps.json
+C:\repositorios\M02S02-Exercicios\Ex01Soma\bin\Debug\net7.0\Ex01Soma.runtimeconfig.json
+C:\repositorios\M02S02-Exercicios\Ex01Soma\bin\Debug\net7.0\Ex01Soma.dll
+C:\repositorios\M02S02-Exercicios\Ex01Soma\bin\Debug\net7.0\Ex01Soma.pdb
+C:\repositorios\M02S02-Exercicios\Ex01Soma\obj\Debug\net7.0\Ex01Soma.dll
+C:\repositorios\M02S02-Exercicios\Ex01Soma\obj\Debug\net7.0\refint\Ex01Soma.dll
+C:\repositorios\M02S02-Exercicios\Ex01Soma\obj\Debug\net7.0\Ex01Soma.pdb
+C:\repositorios\M02S02-Exercicios\Ex01Soma\obj\Debug\net7.0\Ex01Soma.genruntimeconfig.cache
+C:\repositorios\M02S02-Exercicios\Ex01Soma\obj\Debug\net7.0\ref\Ex01Soma.dll

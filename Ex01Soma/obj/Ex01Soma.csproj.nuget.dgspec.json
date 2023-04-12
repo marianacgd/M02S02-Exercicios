@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repositorios\\M02S02-Exercicios\\Ex01\\Ex01Soma\\Ex01Soma.csproj": {}
+    "C:\\repositorios\\M02S02-Exercicios\\Ex01Soma\\Ex01Soma.csproj": {}
   },
   "projects": {
-    "C:\\repositorios\\M02S02-Exercicios\\Ex01\\Ex01Soma\\Ex01Soma.csproj": {
+    "C:\\repositorios\\M02S02-Exercicios\\Ex01Soma\\Ex01Soma.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repositorios\\M02S02-Exercicios\\Ex01\\Ex01Soma\\Ex01Soma.csproj",
+        "projectUniqueName": "C:\\repositorios\\M02S02-Exercicios\\Ex01Soma\\Ex01Soma.csproj",
         "projectName": "Ex01Soma",
-        "projectPath": "C:\\repositorios\\M02S02-Exercicios\\Ex01\\Ex01Soma\\Ex01Soma.csproj",
+        "projectPath": "C:\\repositorios\\M02S02-Exercicios\\Ex01Soma\\Ex01Soma.csproj",
         "packagesPath": "C:\\Users\\maria\\.nuget\\packages\\",
-        "outputPath": "C:\\repositorios\\M02S02-Exercicios\\Ex01\\Ex01Soma\\obj\\",
+        "outputPath": "C:\\repositorios\\M02S02-Exercicios\\Ex01Soma\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maria\\AppData\\Roaming\\NuGet\\NuGet.Config",
