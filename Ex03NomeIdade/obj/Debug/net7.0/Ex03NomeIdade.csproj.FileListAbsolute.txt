@@ -1,0 +1,15 @@
+C:\repositorios\M02S02-Exercicios\Ex03NomeIdade\bin\Debug\net7.0\Ex03NomeIdade.exe
+C:\repositorios\M02S02-Exercicios\Ex03NomeIdade\bin\Debug\net7.0\Ex03NomeIdade.deps.json
+C:\repositorios\M02S02-Exercicios\Ex03NomeIdade\bin\Debug\net7.0\Ex03NomeIdade.runtimeconfig.json
+C:\repositorios\M02S02-Exercicios\Ex03NomeIdade\bin\Debug\net7.0\Ex03NomeIdade.dll
+C:\repositorios\M02S02-Exercicios\Ex03NomeIdade\bin\Debug\net7.0\Ex03NomeIdade.pdb
+C:\repositorios\M02S02-Exercicios\Ex03NomeIdade\obj\Debug\net7.0\Ex03NomeIdade.csproj.AssemblyReference.cache
+C:\repositorios\M02S02-Exercicios\Ex03NomeIdade\obj\Debug\net7.0\Ex03NomeIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorios\M02S02-Exercicios\Ex03NomeIdade\obj\Debug\net7.0\Ex03NomeIdade.AssemblyInfoInputs.cache
+C:\repositorios\M02S02-Exercicios\Ex03NomeIdade\obj\Debug\net7.0\Ex03NomeIdade.AssemblyInfo.cs
+C:\repositorios\M02S02-Exercicios\Ex03NomeIdade\obj\Debug\net7.0\Ex03NomeIdade.csproj.CoreCompileInputs.cache
+C:\repositorios\M02S02-Exercicios\Ex03NomeIdade\obj\Debug\net7.0\Ex03NomeIdade.dll
+C:\repositorios\M02S02-Exercicios\Ex03NomeIdade\obj\Debug\net7.0\refint\Ex03NomeIdade.dll
+C:\repositorios\M02S02-Exercicios\Ex03NomeIdade\obj\Debug\net7.0\Ex03NomeIdade.pdb
+C:\repositorios\M02S02-Exercicios\Ex03NomeIdade\obj\Debug\net7.0\Ex03NomeIdade.genruntimeconfig.cache
+C:\repositorios\M02S02-Exercicios\Ex03NomeIdade\obj\Debug\net7.0\ref\Ex03NomeIdade.dll
