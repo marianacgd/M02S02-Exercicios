@@ -6,6 +6,8 @@
 
        List<string> palavras = new List<string>(frase.Split(' '));
 
-       Console.WriteLine(palavras[7]);
+       string ultimaPalavra = palavras[palavras.Count-1];
+
+       Console.WriteLine(ultimaPalavra);
     }    
 }
