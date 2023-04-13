@@ -5,20 +5,20 @@
         string nome;
         int idade;
 
-        Console.Write("Digite o seu nome: ");
+        Console.Write("Digite o nome do paciente: ");
         nome = Console.ReadLine();
 
-        Console.Write("Digite sua idade: ");
+        Console.Write("Digite a idade do paciente: ");
         idade = int.Parse(Console.ReadLine());
 
-         Console.WriteLine("Olá Sr(a) " + nome + " !");
+         Console.WriteLine($"O nome do paciente é: {nome}");
         
         if (idade < 18) {
-            Console.WriteLine("Você é Menor de idade!");
+            Console.WriteLine("Paciente Menor de idade!");
         } else if(idade >= 18 && idade < 60) {
-            Console.WriteLine("Você é Maior de idade!");
+            Console.WriteLine("Paciente Maior de idade!");
         } else if(idade >= 60){
-            Console.WriteLine("Você é Idoso!");
+            Console.WriteLine("Paciente Idoso!");
         } 
         
     }    
