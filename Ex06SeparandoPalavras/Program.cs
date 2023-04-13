@@ -1,2 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿internal class Program
+{
+    private static void Main(string[] args)
+    {
+       string frase = "A linguagem de programação C# é muito poderosa.";
+
+       List<string> palavras = new List<string>(frase.Split(' '));
+
+       Console.WriteLine(palavras[7]);
+    }    
+}

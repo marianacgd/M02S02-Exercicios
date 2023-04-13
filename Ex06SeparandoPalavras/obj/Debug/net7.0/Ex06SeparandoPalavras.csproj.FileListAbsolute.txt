@@ -1,0 +1,15 @@
+C:\repositorios\M02S02-Exercicios\Ex06SeparandoPalavras\bin\Debug\net7.0\Ex06SeparandoPalavras.exe
+C:\repositorios\M02S02-Exercicios\Ex06SeparandoPalavras\bin\Debug\net7.0\Ex06SeparandoPalavras.deps.json
+C:\repositorios\M02S02-Exercicios\Ex06SeparandoPalavras\bin\Debug\net7.0\Ex06SeparandoPalavras.runtimeconfig.json
+C:\repositorios\M02S02-Exercicios\Ex06SeparandoPalavras\bin\Debug\net7.0\Ex06SeparandoPalavras.dll
+C:\repositorios\M02S02-Exercicios\Ex06SeparandoPalavras\bin\Debug\net7.0\Ex06SeparandoPalavras.pdb
+C:\repositorios\M02S02-Exercicios\Ex06SeparandoPalavras\obj\Debug\net7.0\Ex06SeparandoPalavras.csproj.AssemblyReference.cache
+C:\repositorios\M02S02-Exercicios\Ex06SeparandoPalavras\obj\Debug\net7.0\Ex06SeparandoPalavras.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorios\M02S02-Exercicios\Ex06SeparandoPalavras\obj\Debug\net7.0\Ex06SeparandoPalavras.AssemblyInfoInputs.cache
+C:\repositorios\M02S02-Exercicios\Ex06SeparandoPalavras\obj\Debug\net7.0\Ex06SeparandoPalavras.AssemblyInfo.cs
+C:\repositorios\M02S02-Exercicios\Ex06SeparandoPalavras\obj\Debug\net7.0\Ex06SeparandoPalavras.csproj.CoreCompileInputs.cache
+C:\repositorios\M02S02-Exercicios\Ex06SeparandoPalavras\obj\Debug\net7.0\Ex06SeparandoPalavras.dll
+C:\repositorios\M02S02-Exercicios\Ex06SeparandoPalavras\obj\Debug\net7.0\refint\Ex06SeparandoPalavras.dll
+C:\repositorios\M02S02-Exercicios\Ex06SeparandoPalavras\obj\Debug\net7.0\Ex06SeparandoPalavras.pdb
+C:\repositorios\M02S02-Exercicios\Ex06SeparandoPalavras\obj\Debug\net7.0\Ex06SeparandoPalavras.genruntimeconfig.cache
+C:\repositorios\M02S02-Exercicios\Ex06SeparandoPalavras\obj\Debug\net7.0\ref\Ex06SeparandoPalavras.dll
