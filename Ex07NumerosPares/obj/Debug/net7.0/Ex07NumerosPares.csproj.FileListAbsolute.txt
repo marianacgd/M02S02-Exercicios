@@ -1,0 +1,15 @@
+C:\repositorios\M02S02-Exercicios\Ex07NumerosPares\bin\Debug\net7.0\Ex07NumerosPares.exe
+C:\repositorios\M02S02-Exercicios\Ex07NumerosPares\bin\Debug\net7.0\Ex07NumerosPares.deps.json
+C:\repositorios\M02S02-Exercicios\Ex07NumerosPares\bin\Debug\net7.0\Ex07NumerosPares.runtimeconfig.json
+C:\repositorios\M02S02-Exercicios\Ex07NumerosPares\bin\Debug\net7.0\Ex07NumerosPares.dll
+C:\repositorios\M02S02-Exercicios\Ex07NumerosPares\bin\Debug\net7.0\Ex07NumerosPares.pdb
+C:\repositorios\M02S02-Exercicios\Ex07NumerosPares\obj\Debug\net7.0\Ex07NumerosPares.csproj.AssemblyReference.cache
+C:\repositorios\M02S02-Exercicios\Ex07NumerosPares\obj\Debug\net7.0\Ex07NumerosPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorios\M02S02-Exercicios\Ex07NumerosPares\obj\Debug\net7.0\Ex07NumerosPares.AssemblyInfoInputs.cache
+C:\repositorios\M02S02-Exercicios\Ex07NumerosPares\obj\Debug\net7.0\Ex07NumerosPares.AssemblyInfo.cs
+C:\repositorios\M02S02-Exercicios\Ex07NumerosPares\obj\Debug\net7.0\Ex07NumerosPares.csproj.CoreCompileInputs.cache
+C:\repositorios\M02S02-Exercicios\Ex07NumerosPares\obj\Debug\net7.0\Ex07NumerosPares.dll
+C:\repositorios\M02S02-Exercicios\Ex07NumerosPares\obj\Debug\net7.0\refint\Ex07NumerosPares.dll
+C:\repositorios\M02S02-Exercicios\Ex07NumerosPares\obj\Debug\net7.0\Ex07NumerosPares.pdb
+C:\repositorios\M02S02-Exercicios\Ex07NumerosPares\obj\Debug\net7.0\Ex07NumerosPares.genruntimeconfig.cache
+C:\repositorios\M02S02-Exercicios\Ex07NumerosPares\obj\Debug\net7.0\ref\Ex07NumerosPares.dll
