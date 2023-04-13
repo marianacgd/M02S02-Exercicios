@@ -14,12 +14,12 @@
         Console.Write("Digite os Km rodados : ");
         km = double.Parse(Console.ReadLine());
 
-         Console.WriteLine("Marca: " + marca + " Modelo: " + modelo);
+         Console.WriteLine($"\n Marca: {marca}\n Modelo: {modelo}\n Km rodado: {km}");
         
         if (km > 10000) {
-            Console.WriteLine("Km Rodado: " + km + " - Está na hora de fazer a Revisão no veículo!");
+            Console.WriteLine("Está na hora de fazer a Revisão no veículo!");
         } else {
-            Console.WriteLine("Km Rodado: " + km + " - Está tudo em ordem!" );
+            Console.WriteLine("Está tudo em ordem!" );
         } 
         
     }    
