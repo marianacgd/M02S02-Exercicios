@@ -1,0 +1,15 @@
+C:\repositorios\M02S02-Exercicios\Ex05OrdenandoNumeros\bin\Debug\net7.0\Ex05OrdenandoNumeros.exe
+C:\repositorios\M02S02-Exercicios\Ex05OrdenandoNumeros\bin\Debug\net7.0\Ex05OrdenandoNumeros.deps.json
+C:\repositorios\M02S02-Exercicios\Ex05OrdenandoNumeros\bin\Debug\net7.0\Ex05OrdenandoNumeros.runtimeconfig.json
+C:\repositorios\M02S02-Exercicios\Ex05OrdenandoNumeros\bin\Debug\net7.0\Ex05OrdenandoNumeros.dll
+C:\repositorios\M02S02-Exercicios\Ex05OrdenandoNumeros\bin\Debug\net7.0\Ex05OrdenandoNumeros.pdb
+C:\repositorios\M02S02-Exercicios\Ex05OrdenandoNumeros\obj\Debug\net7.0\Ex05OrdenandoNumeros.csproj.AssemblyReference.cache
+C:\repositorios\M02S02-Exercicios\Ex05OrdenandoNumeros\obj\Debug\net7.0\Ex05OrdenandoNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorios\M02S02-Exercicios\Ex05OrdenandoNumeros\obj\Debug\net7.0\Ex05OrdenandoNumeros.AssemblyInfoInputs.cache
+C:\repositorios\M02S02-Exercicios\Ex05OrdenandoNumeros\obj\Debug\net7.0\Ex05OrdenandoNumeros.AssemblyInfo.cs
+C:\repositorios\M02S02-Exercicios\Ex05OrdenandoNumeros\obj\Debug\net7.0\Ex05OrdenandoNumeros.csproj.CoreCompileInputs.cache
+C:\repositorios\M02S02-Exercicios\Ex05OrdenandoNumeros\obj\Debug\net7.0\Ex05OrdenandoNumeros.dll
+C:\repositorios\M02S02-Exercicios\Ex05OrdenandoNumeros\obj\Debug\net7.0\refint\Ex05OrdenandoNumeros.dll
+C:\repositorios\M02S02-Exercicios\Ex05OrdenandoNumeros\obj\Debug\net7.0\Ex05OrdenandoNumeros.pdb
+C:\repositorios\M02S02-Exercicios\Ex05OrdenandoNumeros\obj\Debug\net7.0\Ex05OrdenandoNumeros.genruntimeconfig.cache
+C:\repositorios\M02S02-Exercicios\Ex05OrdenandoNumeros\obj\Debug\net7.0\ref\Ex05OrdenandoNumeros.dll
