@@ -2,7 +2,7 @@
 {
     private static void Main(string[] args)
     {
-      Console.WriteLine("Digite a quantidade de números que você deseja calcular a média: ");
+        Console.WriteLine("Digite a quantidade de números que você deseja calcular a média: ");
         int quantidade = int.Parse(Console.ReadLine());
 
         double[] numeros = new double[quantidade];
