@@ -8,7 +8,7 @@
         double[] numeros = new double[quantidade];
 
         for (int i = 0; i < quantidade; i++) {
-            Console.WriteLine($"Digite o {i+1}º número: ");
+            Console.Write($"Digite o {i+1}º número: ");
             numeros[i] = double.Parse(Console.ReadLine());
         }
 
