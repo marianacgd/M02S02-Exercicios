@@ -1,0 +1,15 @@
+C:\repositorios\M02S02-Exercicios\Ex08MaiorNumDaLista\bin\Debug\net7.0\Ex08MaiorNumDaLista.exe
+C:\repositorios\M02S02-Exercicios\Ex08MaiorNumDaLista\bin\Debug\net7.0\Ex08MaiorNumDaLista.deps.json
+C:\repositorios\M02S02-Exercicios\Ex08MaiorNumDaLista\bin\Debug\net7.0\Ex08MaiorNumDaLista.runtimeconfig.json
+C:\repositorios\M02S02-Exercicios\Ex08MaiorNumDaLista\bin\Debug\net7.0\Ex08MaiorNumDaLista.dll
+C:\repositorios\M02S02-Exercicios\Ex08MaiorNumDaLista\bin\Debug\net7.0\Ex08MaiorNumDaLista.pdb
+C:\repositorios\M02S02-Exercicios\Ex08MaiorNumDaLista\obj\Debug\net7.0\Ex08MaiorNumDaLista.csproj.AssemblyReference.cache
+C:\repositorios\M02S02-Exercicios\Ex08MaiorNumDaLista\obj\Debug\net7.0\Ex08MaiorNumDaLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorios\M02S02-Exercicios\Ex08MaiorNumDaLista\obj\Debug\net7.0\Ex08MaiorNumDaLista.AssemblyInfoInputs.cache
+C:\repositorios\M02S02-Exercicios\Ex08MaiorNumDaLista\obj\Debug\net7.0\Ex08MaiorNumDaLista.AssemblyInfo.cs
+C:\repositorios\M02S02-Exercicios\Ex08MaiorNumDaLista\obj\Debug\net7.0\Ex08MaiorNumDaLista.csproj.CoreCompileInputs.cache
+C:\repositorios\M02S02-Exercicios\Ex08MaiorNumDaLista\obj\Debug\net7.0\Ex08MaiorNumDaLista.dll
+C:\repositorios\M02S02-Exercicios\Ex08MaiorNumDaLista\obj\Debug\net7.0\refint\Ex08MaiorNumDaLista.dll
+C:\repositorios\M02S02-Exercicios\Ex08MaiorNumDaLista\obj\Debug\net7.0\Ex08MaiorNumDaLista.pdb
+C:\repositorios\M02S02-Exercicios\Ex08MaiorNumDaLista\obj\Debug\net7.0\Ex08MaiorNumDaLista.genruntimeconfig.cache
+C:\repositorios\M02S02-Exercicios\Ex08MaiorNumDaLista\obj\Debug\net7.0\ref\Ex08MaiorNumDaLista.dll
