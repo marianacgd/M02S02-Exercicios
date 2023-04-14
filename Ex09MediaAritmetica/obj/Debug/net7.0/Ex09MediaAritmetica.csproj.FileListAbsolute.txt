@@ -1,0 +1,15 @@
+C:\repositorios\M02S02-Exercicios\Ex09MediaAritmetica\bin\Debug\net7.0\Ex09MediaAritmetica.exe
+C:\repositorios\M02S02-Exercicios\Ex09MediaAritmetica\bin\Debug\net7.0\Ex09MediaAritmetica.deps.json
+C:\repositorios\M02S02-Exercicios\Ex09MediaAritmetica\bin\Debug\net7.0\Ex09MediaAritmetica.runtimeconfig.json
+C:\repositorios\M02S02-Exercicios\Ex09MediaAritmetica\bin\Debug\net7.0\Ex09MediaAritmetica.dll
+C:\repositorios\M02S02-Exercicios\Ex09MediaAritmetica\bin\Debug\net7.0\Ex09MediaAritmetica.pdb
+C:\repositorios\M02S02-Exercicios\Ex09MediaAritmetica\obj\Debug\net7.0\Ex09MediaAritmetica.csproj.AssemblyReference.cache
+C:\repositorios\M02S02-Exercicios\Ex09MediaAritmetica\obj\Debug\net7.0\Ex09MediaAritmetica.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorios\M02S02-Exercicios\Ex09MediaAritmetica\obj\Debug\net7.0\Ex09MediaAritmetica.AssemblyInfoInputs.cache
+C:\repositorios\M02S02-Exercicios\Ex09MediaAritmetica\obj\Debug\net7.0\Ex09MediaAritmetica.AssemblyInfo.cs
+C:\repositorios\M02S02-Exercicios\Ex09MediaAritmetica\obj\Debug\net7.0\Ex09MediaAritmetica.csproj.CoreCompileInputs.cache
+C:\repositorios\M02S02-Exercicios\Ex09MediaAritmetica\obj\Debug\net7.0\Ex09MediaAritmetica.dll
+C:\repositorios\M02S02-Exercicios\Ex09MediaAritmetica\obj\Debug\net7.0\refint\Ex09MediaAritmetica.dll
+C:\repositorios\M02S02-Exercicios\Ex09MediaAritmetica\obj\Debug\net7.0\Ex09MediaAritmetica.pdb
+C:\repositorios\M02S02-Exercicios\Ex09MediaAritmetica\obj\Debug\net7.0\Ex09MediaAritmetica.genruntimeconfig.cache
+C:\repositorios\M02S02-Exercicios\Ex09MediaAritmetica\obj\Debug\net7.0\ref\Ex09MediaAritmetica.dll
