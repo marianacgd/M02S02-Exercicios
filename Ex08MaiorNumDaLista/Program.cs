@@ -16,7 +16,7 @@
         }
       }
 
-      Console.WriteLine($"O maior número digitado foi {numMaior}.");
+      Console.WriteLine($"\nO maior número digitado foi {numMaior}.");
 
     }    
 }
